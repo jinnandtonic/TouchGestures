@@ -64,8 +64,6 @@ public class MainActivity extends AppCompatActivity
         return mGestureDetector.onTouchEvent(ev);
     }
 
-    // TODO: fill method bodies with messages appended to log
-
     /**
      * Handles a single-tap gesture. Not part of a double-tap
      * @param motionEvent The motion event triggering the touch
